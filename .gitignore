@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 抓包日志与数据
+logs/
+*.log
+*.db
+*.sqlite
+*.jsonl
+
+# 打包产物
+dist/
+build/
+
+# 其他
+.DS_Store
